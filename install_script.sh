@@ -11,10 +11,10 @@ rm -rf install_script.sh
 cd /usr/local/directadmin/plugins
 
 # Download the file.
-wget https://github.com/MrKoopie/directadmin_r1soft/archive/master.zip -O r1soft.zip
+wget https://github.com/MrKoopie/directadmin_r1soft/archive/master.tar.gz
 
 # Unzip the file
-unzip r1soft.zip
+tar zxf master.tar.gz
 mv directadmin_r1soft-master r1soft
 
 # Do some cleanup
