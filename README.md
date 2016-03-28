@@ -9,3 +9,6 @@ chmod +x install_script.sh
 ./install_script.sh
 
 ```
+
+# Disclaimer
+Use of this plugin is at your own risk and responsibility. No guarantees are provided.
